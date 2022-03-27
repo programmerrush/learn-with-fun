@@ -6,4 +6,4 @@
     -   Application software
         -   Visual Studio Code
 
-###### -- END
+###### END
